@@ -1,7 +1,11 @@
-slack-scala-client
-==================
+slack-scala-client - dkowis Fork
+================================
 
 A Scala library for interacting with the Slack API and real time messaging interface
+I had to update a few things, and they haven't quite made it into upstream yet.
+
+[![Release](https://jitpack.io/v/User/Repo.svg)](https://jitpack.io/#User/Repo)
+
 
 
 Installation
